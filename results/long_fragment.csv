@@ -1,0 +1,17 @@
+ID,item
+1,age=>=60
+1,ca=0
+1,chol=200-239
+1,cp=1
+1,exang=0
+1,fbs=1
+1,oldpeak=>2
+1,restecg=2
+1,sex=1
+1,slope=3
+1,thal=6
+1,thalach=средняя
+1,trestbps=>=140
+2,age=>=60
+2,ca=3
+2,chol=>=240
